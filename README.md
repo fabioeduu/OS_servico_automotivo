@@ -73,7 +73,30 @@ Rotas principais (controller `OrdemServicosController`):
 
 > Observação: Não existe uma API REST separada — toda interação é via MVC com Views (HTML forms).
 
+## Demonstração do Sistema
 
+---
+
+### Inicio
+![Tela Inicio](images/tela_inicio.png)
+
+
+---
+
+### Criando ordem
+![Criando ordem de serviço](images/criar_ordem.png)
+
+---
+
+### Ordem criada
+![Tela da criação da ordem](image/ordem_criada.png)
+
+---
+
+### Detalhes sobre a ordem de serviço
+![Tela detalhes da ordem](images/detalhes.png)
+
+---
 ## Modelos principais
 
 - `Models/OrdemServico.cs`
