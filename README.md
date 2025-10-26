@@ -76,6 +76,8 @@ Rotas principais (controller `OrdemServicosController`):
 ## Demonstração do Sistema
 
 ---
+### Terminal
+![Tela Terminal](images/terminal.png).
 
 ### Inicio
 ![Tela Inicio](images/tela_inicio.png)
