@@ -77,28 +77,28 @@ Rotas principais (controller `OrdemServicosController`):
 
 ---
 ### Terminal
-![Tela Terminal](images/terminal.png).
+![Tela Terminal](Images/terminal.png)
 
 ### Inicio
-![Tela Inicio](images/tela_inicio.png)
-
+![Tela Inicio](Images/tela_inicio.png)
 
 ---
 
 ### Criando ordem
-![Criando ordem de serviço](images/criar_ordem.png)
+![Criando ordem de serviço](Images/criar_ordem.png)
 
 ---
 
 ### Ordem criada
-![Tela da criação da ordem](image/ordem_criada.png)
+![Tela da criação da ordem](Images/ordem_criada.png)
 
 ---
 
 ### Detalhes sobre a ordem de serviço
-![Tela detalhes da ordem](images/detalhes.png)
+![Tela detalhes da ordem](Images/detalhes.png)
 
 ---
+
 ## Modelos principais
 
 - `Models/OrdemServico.cs`
