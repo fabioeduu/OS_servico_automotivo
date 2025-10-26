@@ -8,7 +8,7 @@ Repositório: https://github.com/fabioeduu/OS_servico_automotivo
 ## Nomes e RMs dos integrantes do grupo
 
 - Fabio H S Eduardo - RM560416
-- Gabriel WU Castro - RM560410
+- Gabriel WU Castro - RM560210
 - Renato Kenji Sugaki - RM559810
 
 
